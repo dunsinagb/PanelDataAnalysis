@@ -1,6 +1,5 @@
 This repository contains code for an Applied Econometrics class project titled: **The Effects of Public Capital Expenditure on State Productivity: A Panel Data Analysis.** Data Cleaning was done with R and Data Analysis with STATA.
 
-## The-Effects-of-Public-Capital-Expenditure-on-State-Productivity-A-Panel-Data-Analysis
 
 ## Abstract
 
